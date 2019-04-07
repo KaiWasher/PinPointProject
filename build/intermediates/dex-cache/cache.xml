@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_30b614eb6ea8f600b11fcec2d5c0d98966b89e31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_7bfaf5a4192d6a726d28017bc1e3c66e002f41d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_deaf864eceee5e9e5df785dd1d5b60631a98ce0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_1ffed324baf833a5eedca25344bb83b9db88483f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_6b6209c15372ff623891fda4fbe2a3ad953768ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_cf47b95c151c049b50d868d596b3a32c2642e8dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevi\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_f47b6851168e3955971003bfbc4d855886c587af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_f62ffd883f550dc325a3f0fd46e0322ad094dda4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_41bdcacfb9d19ea4f3ca3367f5becbf4274150d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Kevi\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_f3281895663cfb2207719ac6461880cbc58eae73.jar" />
+    </item>
+
+</items>
